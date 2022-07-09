@@ -1,5 +1,29 @@
-# VideoMerge-Bot
-This is very simple Telegram Videos Merge Bot by [@PredatorHackerzZ](https://t.me/TheTeleRoid). Using FFmpeg for Merging Videos.
+
+<h1 align="center">
+  <b> ꜰɪʟᴍʏꜰᴀᴛʜᴇʀ Merger Op ʙᴏᴛ </b>
+</h1>
+
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="200">
+  </a>
+  <a href="https://t.me/Yuvi_4502">
+    <img src="https://telegra.ph/file/64b87518d17b8a168c846.jpg" width="250">
+  </a><br>
+  <a href="https://t.me/FilmyFather_Botlist">
+    &nbsp;<img src="https://img.shields.io/badge/FilmyFather%20BotList-Channel-blue?style=plastic&logo=Telegram" width="185" height="22">&nbsp;
+  </a>
+  <a href="https://t.me/RequestingHuB">
+    &nbsp;<img src="https://img.shields.io/badge/Requesting%20HuB-Group-blue?style=plastic&logo=Telegram" width="180" height="22">&nbsp;
+  </a>
+  <br>
+  <a href="https://github.com/FilmyFather/Any-Url-Downloader/stargazers">
+    <img src="https://img.shields.io/github/stars/FilmyFather/Any-Url-Downloader?style=social">
+  </a>
+  <a href="https://github.com/FilmyFather/Any-Url-Downloader/fork">
+    <img src="https://img.shields.io/github/forks/FilmyFather/Any-Url-Downloader?label=Fork&style=social">
+  </a>  
+</p>
 
 ## Features:
 - Merge Multiple Videos.
