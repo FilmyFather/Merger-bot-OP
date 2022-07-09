@@ -35,27 +35,36 @@
 ## Demo Bot:
 <a href="https://telegram.dog/TeleRoid_VideoMergeBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
-### Deploy to Heroku:
-Just Press Below Button to Deploy!
+<h1 align="left">
+  <b> 𝙳𝙴𝙿𝙻𝙾𝚈 𝙾𝙽 𝙷𝙴𝚁𝙾𝙺𝚄 </b>
+</h1>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/Video-Merger_Bot)
 
-### Support Group:
+
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/FilmyFather/Merger-bot-OP">
+    <img src="https://img.shields.io/badge/Deploy%20To Heroku-purple?style=for-the-badge&logo=Heroku" alt="herokudeploy-01" border="2" height="50" width="280"></a>
+</p>
+
+
+<h1 align="left">
+<b> Support Group: </b>
+</h1>
+
 <a href="https://t.me/TeleRoid14"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
-### Video Tutorial:
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=m4r_SHySGYo)
+<h1 align="left">
+</b> Follow on: </b>
+</h1>
 
-### Follow on:
 <p align="left">
-<a href="https://github.com/PredatorHackerzZ"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/FilmyFather"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/Cod3sofAbhi"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+<a href="https://twitter.com/Yuvi_4502"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 </p>
 <p align="left">
-<a href="https://facebook.com/Apex_Memes"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+<a href="https://facebook.com/Yuvraj_4502"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/Cod3sOfAbhi"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://instagram.com/_xx_itz_yuvi_xx_"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
