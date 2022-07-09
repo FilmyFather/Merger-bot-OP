@@ -50,7 +50,7 @@
 <b> Support Group: </b>
 </h1>
 
-<a href="https://t.me/TeleRoid14"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/yuvi_4502"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-black.svg?logo=telegram"></a>
 
 <h1 align="left">
 </b> Follow on: </b>
@@ -63,7 +63,7 @@
 <a href="https://twitter.com/Yuvi_4502"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 </p>
 <p align="left">
-<a href="https://facebook.com/Yuvraj_4502"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+<a href="https://facebook.com/Yuvraj4502"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p>
 <p align="left">
 <a href="https://instagram.com/_xx_itz_yuvi_xx_"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
