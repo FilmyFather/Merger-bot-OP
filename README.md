@@ -71,6 +71,6 @@
 
 ### Credits
 
-[Yuvraj](https://t me/yuvi_4502)
+[Yuvraj](https://t.me/yuvi_4502)
 
 [FilmyFather](https://github.com/FilmyFather)
