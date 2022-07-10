@@ -68,3 +68,9 @@
 <p align="left">
 <a href="https://instagram.com/_xx_itz_yuvi_xx_"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
+
+### Credits
+
+[Yuvraj](https://t me/yuvi_4502)
+
+[FilmyFather](https://github.com/FilmyFather)
